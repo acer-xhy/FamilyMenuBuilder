@@ -1,5 +1,10 @@
 *.iml
-.gradle
+.gradle/
 /local.properties
 \.idea
 build/
+!vcs.xml
+gradlew
+gradlew.bat
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
